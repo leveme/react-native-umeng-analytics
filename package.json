@@ -1,0 +1,23 @@
+{
+  "name": "react-native-umeng-analytics-bridge",
+  "version": "0.1.1",
+  "description": "Umeng Analytics for React Native",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/leveme/react-native-umeng-analytics.git"
+  },
+  "keywords": [
+    "react-native",
+    "react-native-umeng-analytics",
+    "react",
+    "native",
+    "umeng",
+    "analytics"
+  ],
+  "author": "leveme",
+  "license": "MIT"
+}

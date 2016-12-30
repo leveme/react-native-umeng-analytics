@@ -1,0 +1,24 @@
+# Windows thumbnail db
+Thumbs.db
+
+# OSX files
+.DS_Store
+
+# Gradle
+.gradle
+build
+
+# Local configuration file (sdk path, etc)
+local.properties
+
+# IntelliJ IDEA
+.idea
+*.iml
+captures
+
+# built application files
+*.apk
+*.ap_
+
+# Java class files
+*.class
